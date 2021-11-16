@@ -28,8 +28,7 @@ FULLSTACK JS WEB DEVELOPER
 ### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EverFJ&layout=compact&theme=prussian)
 ![EverFJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=EverFJ&show_icons=true&theme=prussian&count_private=true&hide=issues)
-### Stats of the last week
-![EverFJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EverFJ&theme=prussian)
+
 
 
 
