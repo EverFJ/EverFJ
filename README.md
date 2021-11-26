@@ -1,6 +1,6 @@
-### Welcome to my Github profile 👋
+### Hi there 👋
 
-FULLSTACK JS WEB DEVELOPER
+My name is François Janson, and I'm a FULLSTACK JS WEB DEVELOPER. I'm also interested in Linux, bash scripting, server administration, and open source software in general.
 
 ### ⚡ Technologies
 - Back : 
