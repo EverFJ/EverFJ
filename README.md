@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is François Janson, and I'm a FULLSTACK JS WEB DEVELOPER. I'm also interested in Linux, bash scripting, server administration, and open source software in general.
+My name is François Janson, and I'm a FULLSTACK JS WEB DEVELOPER. I'm also interested in GNU/Linux, bash scripting, server administration, and open source software in general.
 
 ### ⚡ Technologies
 - Back : 
@@ -27,6 +27,7 @@ My name is François Janson, and I'm a FULLSTACK JS WEB DEVELOPER. I'm also inte
   
 - Operating System :
   ![Linux Mint](https://img.shields.io/badge/LinuxMint%20-%23121011.svg?&style=for-the-badge&logo=LinuxMint&logoColor=green)
+  ![GNU Bash](https://img.shields.io/badge/Bash%20-%23121011.svg?&style=for-the-badge&logo=GNUBash&logoColor=#4EAA25)
  
 ### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EverFJ&layout=compact&theme=prussian)
