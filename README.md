@@ -26,7 +26,7 @@ My name is François Janson, and I'm a FULLSTACK JS WEB DEVELOPER. I'm also inte
   ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&)
   
 - Operating System :
-  ![Linux Mint](https://img.shields.io/badge/LinuxMint%20-%23121011.svg?&style=for-the-badge&logo=LinuxMint&logoColor=green)
+  ![Linux Mint](https://img.shields.io/badge/LinuxMint%20-%23121011.svg?&style=for-the-badge&logo=LinuxMint&logoColor=#87CF3E)
   ![GNU Bash](https://img.shields.io/badge/Bash%20-%23121011.svg?&style=for-the-badge&logo=GNUBash&logoColor=#4EAA25)
  
 ### Stats
